@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+temp/
+*.pth
+*.tif
+*.tiff
+*.aux.xml
+*.gpkg
+*.geojson
+!final_simplified.geojson
+.streamlit/secrets.toml
