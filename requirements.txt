@@ -16,3 +16,4 @@ leafmap
 rdp
 visvalingamwyatt
 segment-geospatial
+GDAL
