@@ -17,3 +17,4 @@ rdp
 visvalingamwyatt
 segment-geospatial
 GDAL==3.10.3
+transformers>=4.41.0
